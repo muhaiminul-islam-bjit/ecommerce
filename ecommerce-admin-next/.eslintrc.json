@@ -13,7 +13,7 @@
         "argsIgnorePattern": "^_"
       }
     ],
-    "no-console": "error",
+    "no-console": "warn",
     // "space-before-function-paren": ["error", "always"],
     "arrow-spacing": [
       "error",
